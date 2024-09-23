@@ -1,0 +1,647 @@
+{
+    "featured":[
+        {
+            "ftImg" :"img/Desktop-feature-img1@2x.avif",
+            "ftTitle":"Optimize your data for AI innovation",
+            "ftCont" :"Migrate your PostgreSQL database to Azure to take advantage of built-in AI capabilities that empower you to create innovative new AI applications.",
+            "ftFoot":"Explore Azure Database for PostgreSQL"
+
+
+        },
+        {
+            "ftImg" :"img/Desktop-FeaturedNews-Card2@4x.avif",
+            "ftTitle":"Migrate your VMware workloads to save",
+            "ftCont" :"Modernize on your terms and get price protection, special offers, and migration assistance with the VMware Rapid Migration Plan.",
+            "ftFoot":"See the plan"
+        },
+        {
+            "ftImg" :"img/Desktop-FeaturedNews-Card3@4x.avif",
+            "ftTitle":"Bring AI to your SAP workloads",
+            "ftCont" :"Enhance productivity and accelerate innovation with new AI integrations for SAP on Microsoft Azure.",
+            "ftFoot":"learn more"
+        }
+    
+    ],
+    "solution":
+    
+        {
+            "featuredSolution":[
+                {
+                    "slHead":"AI",
+                    "slCont":"Build intelligent apps at enterprise scale with the Azure AI portfolio",
+                    "slTag":"Explore Azure AI solutions",
+                    "slImg":"img/Desktop-solutions-tab1-img1@2x.avif"
+
+                },
+                {
+                    "slHead":"Build and modernize intelligent apps",
+                    "slCont":"Build AI-powered, intelligent apps and enhance your critical solutions with generative AI.",
+                    "slTag":"Learn more",
+                    "slImg":"img/Desktop-solutions-tab1-img2@2x.avif"
+
+                },
+                {
+                    "slHead":"DevOps",
+                    "slCont":"Bring together people, processes, and products to continuously deliver value to customers and coworkers.",
+                    "slTag":"Explore DevOps solutions",
+                    "slImg":"img/Desktop-solutions-tab1-img3@2x.avif"
+
+                },
+                {
+                    "slHead":"DevSecOps",
+                    "slCont":"Embed security in your developer workflow and boost collaboration between developers, security practitioners, and IT pros.",
+                    "slTag":"See DevDecOps solutions",
+                    "slImg":"img/Desktop-solutions-tab1-img4@2x.avif"
+
+                },
+                {
+                    "slHead":"Machine learning",
+                    "slCont":"Streamline the development and deployment of machine learning models and AI workflows",
+                    "slTag":"Learn more",
+                    "slImg":"img/Desktop-solutions-tab1-img5@2x.avif"
+
+                }
+            ],
+            "cloudMigration":[
+            
+                {
+                    "slHead":"Migrate to innovate",
+                    "slCont":"Get AI-ready by securely migrating Windows Server, SQL Server, and Linux to Azure",
+                    "slTag":"Learn more",
+                    "slImg":"img/Desktop-solutions-tab2-img1@2x.avif"
+
+                },
+                {
+                    "slHead":"Linux on Azure",
+                    "slCont":"Run and manage applications your way with your preferred Linux distribution on Azure.",
+                    "slTag":"Learn more about Linux on Azure",
+                    "slImg":"img/Desktop-solutions-tab2-img2@2x.avif"
+
+                },
+                {
+                    "slHead":"DevOps",
+                    "slCont":"Bring together people, processes, and products to continuously deliver value to customers and coworkers.",
+                    "slTag":"Explore DevOps solutions",
+                    "slImg":"img/Desktop-solutions-tab2-img3@2x.avif"
+
+                },
+                {
+                    "slHead":"DevSecOps",
+                    "slCont":"Embed security in your developer workflow and boost collaboration between developers, security practitioners, and IT pros.",
+                    "slTag":"See DevDecOps solutions",
+                    "slImg":"img/Desktop-solutions-tab2-img1@2x.avif"
+
+                },
+                {
+                    "slHead":"Machine learning",
+                    "slCont":"Streamline the development and deployment of machine learning models and AI workflows",
+                    "slTag":"Learn more",
+                    "slImg":"img/Desktop-solutions-tab2-img5@2x.avif"
+
+                }
+                
+            ],
+            "dataTransformation":[
+            
+                {
+                    "slHead":"Cloud-scale-analytics",
+                    "slCont":"Realize value from data and generate near-real-time insights with advanced cloud-scale analytics solutions.",
+                    "slTag":"Discover cloud-scale analytics",
+                    "slImg":"img/Desktop-solutions-tab3-img1@2x.avif"
+
+                },
+                {
+                    "slHead":"Azure Managed databases",
+                    "slCont":"Run and manage applications your way with your preferred Linux distribution on Azure.",
+                    "slTag":"Learn more about Linux on Azure",
+                    "slImg":"img/Desktop-solutions-tab3-img2@2x.avif"
+
+                },
+                {
+                    "slHead":"Application and data modernization",
+                    "slCont":"Bring together people, processes, and products to continuously deliver value to customers and coworkers.",
+                    "slTag":"Explore DevOps solutions",
+                    "slImg":"img/Desktop-solutions-tab3-img3@2x.avif"
+
+                },
+                {
+                    "slHead":"Business intelligence",
+                    "slCont":"Embed security in your developer workflow and boost collaboration between developers, security practitioners, and IT pros.",
+                    "slTag":"See DevDecOps solutions",
+                    "slImg":"img/Desktop-solutions-tab3-img4@2x.avif"
+
+                }
+            ],
+            "AppDevelopment":[
+            
+                {
+                    "slHead":"Build and modernize intelligent apps",
+                    "slCont":"Realize value from data and generate near-real-time insights with advanced cloud-scale analytics solutions.",
+                    "slTag":"Discover cloud-scale analytics",
+                    "slImg":"img/Desktop-solutions-tab4-img1@2x.avif"
+
+                },
+                {
+                    "slHead":"Modern application developement",
+                    "slCont":"Run and manage applications your way with your preferred Linux distribution on Azure.",
+                    "slTag":"Learn more about Linux on Azure",
+                    "slImg":"img/Desktop-solutions-tab4-img2@2x.avif"
+
+                },
+                {
+                    "slHead":"DevOps",
+                    "slCont":"Bring together people, processes, and products to continuously deliver value to customers and coworkers.",
+                    "slTag":"Explore DevOps solutions",
+                    "slImg":"img/Desktop-solutions-tab4-img3@2x.avif"
+
+                },
+                {
+                    "slHead":"Integration services",
+                    "slCont":"Embed security in your developer workflow and boost collaboration between developers, security practitioners, and IT pros.",
+                    "slTag":"See DevDecOps solutions",
+                    "slImg":"img/Desktop-solutions-tab4-img4@2x.avif"
+
+                }
+            ],
+            "AI":[
+            
+                {
+                    "slHead":"AI",
+                    "slCont":"Realize value from data and generate near-real-time insights with advanced cloud-scale analytics solutions.",
+                    "slTag":"Discover cloud-scale analytics",
+                    "slImg":"img/Desktop-solutions-tab5-img1@2x.avif"
+
+                },
+                {
+                    "slHead":"Azure AI infrastructure",
+                    "slCont":"Run and manage applications your way with your preferred Linux distribution on Azure.",
+                    "slTag":"Learn more about Linux on Azure",
+                    "slImg":"img/Desktop-solutions-tab5-img2@2x.avif"
+
+                }
+            ]
+        },   
+
+
+
+        "productAndService":{
+
+            "feature":[
+                {
+                    "prHead":"GitHub Enterprise",
+                    "prCont":"Build, scale, and deploy with an AI-powered developer platform.",
+                    "prImg":"img/pro1.avif"
+                    
+                
+                },
+                {
+                    "prHead":"Azure Virtual Machines",
+                    "prCont":"Deploy VMs in seconds",
+                    "prImg":"img/Product-1-1.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Azure VMware Solution",
+                    "prCont":"Quickly move or extend VMware environments to Azure",
+                    "prImg":"img/Product-2-2.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Azure Arc",
+                    "prCont":"IUnify on-premises, hybrid, and cross-cloud infrastructure",
+                    "prImg":"img/Product-3-3.svg"
+                    
+                
+                },
+                {
+                    "prHead":"Azure Migrate",
+                    "prCont":"Simply Azure migration and modernization with a unified platform",
+                    "prImg":"img/Product-4-4.svg"
+            
+                
+                },
+                {
+                    "prHead":"Azure OpenAI Service",
+                    "prCont":"Apply advanced coding and language models to a variety of use cases",
+                    "prImg":"img/Product-5-5.svg"
+                
+                },
+                {
+                    "prHead":"Microsoft Copilot in Azure",
+                    "prCont":"Simplify operations and managements from cloud to edge with AI companion",
+                    "prImg":"img/Product-6-6.svg"
+                
+                }
+               
+            ],
+
+            "AiPlusMachine":[
+                {
+                    "prHead":"Azure AI Studio",
+                    "prCont":"Build, evaluate and deploy generative AI solutions and custom copilots",
+                    "prImg":"img/pro2.avif"     
+                    
+                
+                },
+                {
+                    "prHead":"Azure OpenAI Service",
+                    "prCont":"Apply advanced coding and language models to a variety of use cases.",
+                    "prImg":"img/Product-3-3.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Azure AI Search",
+                    "prCont":"Deliver accurate, hyper-personalized responses in your generative AI applications.",
+                    "prImg":"img/Product-6-6.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Azure AI Content Safety",
+                    "prCont":"Use AI to monitor text and image content for safety.",
+                    "prImg":"img/Product-4-4.svg"
+                    
+                
+                },
+                {
+                    "prHead":"Azure Machine Learning",
+                    "prCont":"Use an enterprise-grade AI service for the end-to-end machine learning lifecycle.",
+                    "prImg":"img/Product-5-5.svg"
+            
+                
+                },
+                {
+                    "prHead":"Azure AI Vision",
+                    "prCont":"Discover computer vision insights from image and video analysis with OCR and AI.",
+                    "prImg":"img/Product-2-2.svg"
+                
+                },
+                {
+                    "prHead":"Azure AI Language",
+                    "prCont":"Build intelligent applications with natural language processing capabilities.",
+                    "prImg":"img/Product-1-1.svg"
+                
+                }
+            ],
+
+            "Compute":[
+                {
+                    "prHead":"Azure Virtual Machines",
+                    "prCont":"Deploy VMs in seconds",
+                    "prImg":"img/pro3.avif"     
+                    
+                
+                },
+                {
+                    "prHead":"Azure Kubernetes Service (AKS)",
+                    "prCont":"Build and scale apps with managed Kubernetes.",
+                    "prImg":"img/Product-2-2.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Linux virtual machines in Azure",
+                    "prCont":"Provision VMs for Ubuntu, Red Hat, SUSE, and other popular distributions.",
+                    "prImg":"img/Product-4-4.svg"
+                   
+                
+                },
+                {
+                    "prHead":"SQL Server on Azure Virtual Machines",
+                    "prCont":"Get industry-leading performance for SQL.",
+                    "prImg":"img/Product-6-6.svg"
+                    
+                
+                },
+                {   
+                    "prHead":"Windows Virtual Machines",
+                    "prCont":"Deploy scalable, protected virtualized infrastructure.",
+                    "prImg":"img/Product-1-1.svg"
+            
+                
+                },
+                {
+                    "prHead":"Azure Functions",
+                    "prCont":"Trigger apps with serverless computing.",
+                    "prImg":"img/Product-3-3.svg"
+                
+                },
+                {
+                    "prHead":"Azure App Service",
+                    "prCont":"Expand apps to additional locations.",
+                    "prImg":"img/Product-5-5.svg"
+                
+                }
+            ],
+
+            "Containers":[
+                {
+                    "prHead":"Azure Kubernetes Service (AKS)",
+                    "prCont":"Deploy VMs in seconds",
+                    "prImg":"img/pro4.avif"     
+                    
+                
+                },
+                {
+                    "prHead":"Azure App Service",
+                    "prCont":"Build and scale apps with managed Kubernetes.",
+                    "prImg":"img/Product-4-4.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Linux virtual machines in Azure",
+                    "prCont":"Provision VMs for Ubuntu, Red Hat, SUSE, and other popular distributions.",
+                    "prImg":"img/Product-5-5.svg"
+                   
+                
+                },
+                {
+                    "prHead":"SQL Server on Azure Virtual Machines",
+                    "prCont":"Get industry-leading performance for SQL.",
+                    "prImg":"img/Product-2-2.svg"
+                    
+                
+                },
+                {   
+                    "prHead":"Windows Virtual Machines",
+                    "prCont":"Deploy scalable, protected virtualized infrastructure.",
+                    "prImg":"img/Product-3-3.svg"
+            
+                
+                },
+                {
+                    "prHead":"Azure Functions",
+                    "prCont":"Trigger apps with serverless computing.",
+                    "prImg":"img/Product-6-6.svg"
+                
+                },
+                {
+                    "prHead":"Azure App Service",
+                    "prCont":"Expand apps to additional locations.",
+                    "prImg":"img/Product-1-1.svg"
+                
+                }
+            ],
+
+            "hybrid":[
+                {
+                    "prHead":"Azure Arc",
+                    "prCont":"Unify on-premises,hybrid, and cross-cloud infrastructure",
+                    "prImg":"img/pro5.avif"     
+                    
+                
+                },
+                {
+                    "prHead":"Azure Kubernetes Service (AKS)",
+                    "prCont":"Build and scale apps with managed Kubernetes.",
+                    "prImg":"img/Product-2-2.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Linux virtual machines in Azure",
+                    "prCont":"Provision VMs for Ubuntu, Red Hat, SUSE, and other popular distributions.",
+                    "prImg":"img/Product-4-4.svg"
+                   
+                
+                },
+                {
+                    "prHead":"SQL Server on Azure Virtual Machines",
+                    "prCont":"Get industry-leading performance for SQL.",
+                    "prImg":"img/Product-6-6.svg"
+                    
+                
+                },
+                {   
+                    "prHead":"Windows Virtual Machines",
+                    "prCont":"Deploy scalable, protected virtualized infrastructure.",
+                    "prImg":"img/Product-1-1.svg"
+            
+                
+                },
+                {
+                    "prHead":"Azure Functions",
+                    "prCont":"Trigger apps with serverless computing.",
+                    "prImg":"img/Product-3-3.svg"
+                
+                },
+                {
+                    "prHead":"Azure App Service",
+                    "prCont":"Expand apps to additional locations.",
+                    "prImg":"img/Product-5-5.svg"
+                
+                }
+            ],
+
+            "IOT":[
+                {
+                    "prHead":"Azure IoT Hub",
+                    "prCont":"DAuthenticate communication across devices, edge, and cloud",
+                    "prImg":"img/pro6.avif"     
+                    
+                
+                },
+                {
+                    "prHead":"Azure IoT Central",
+                    "prCont":"Build IoT solutions on a hosted platform.",
+                    "prImg":"img/Product-2-2.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Microsoft Defender for IoT",
+                    "prCont":"Protect IoT and OT devices from threats.",
+                    "prImg":"img/Product-4-4.svg"
+                   
+                
+                },
+                {
+                    "prHead":"Azure Digital Twins",
+                    "prCont":"Create models of physical environment.",
+                    "prImg":"img/Product-6-6.svg"
+                    
+                
+                },
+                {   
+                    "prHead":"Azure Sphere",
+                    "prCont":"Secure your IoT hardware and software",
+                    "prImg":"img/Product-1-1.svg"
+            
+                
+                },
+                {
+                    "prHead":"Azure Functions",
+                    "prCont":"Trigger apps with serverless computing.",
+                    "prImg":"img/Product-3-3.svg"
+                
+                },
+                {
+                    "prHead":"Azure Time Series Insights",
+                    "prCont":"Visualize IoT data in real time.",
+                    "prImg":"img/Product-5-5.svg"
+                
+                }
+            ]                        
+        
+        },
+        "resource":[
+            {
+                "resHead":"Optimize your infrastructure with popular Azure solutions and services.",
+                "resBtn":"Explore migration solutions",
+                "resImg":"img/Resources-tab1.avif"
+            },  
+            {
+                "resHead":"Create today’s solutions and tomorrow’s breakthroughs.",
+                "resBtn":"Innovate on Azure",
+                "resImg":"img/Resources-tab2.avif"
+            },  
+            {
+                "resHead":"Get more value from your data with an end-to-end cloud analytics solution.",
+                "resBtn":"Cloud-scale analytics",
+                "resImg":"img/Resources-tab3.avif"
+            },  
+            {
+                "resHead":"Get guidance and insights on AI innovation, intelligent data, cloud infrastructure, and optimization.",
+                "resBtn":"Explore insights",
+                "resImg":"img/Resources-tab4.avif"
+            },  
+            {
+                "resHead":"Future-proof your startup with AI services, expert guidance, and essential technology.",
+                "resBtn":"Explore Microsoft for Startups",
+                "resImg":"img/Resources-tab5.avif"
+            },  
+            {
+                "resHead":"Learn about programming, cloud technologies, and developer tools.",
+                "resBtn":"Jump-start your career",
+                "resImg":"img/Resources-tab6.avif"
+            }
+        ],
+
+                                    
+
+        "stories":[
+           {
+                "icon":"img/Logo-HP.avif",
+                "head":"HP incorporated GitHub Copilot into its workflow to help developers collaborate more easily and work more productively.",
+                "product":[
+                    {
+                        "iconImg":"img/GitHubCopilot.svg",
+                        "iconTag":"GitHub Copilot"
+                    },
+                    {
+                        "iconImg":"img/AzureDevOps.svg",
+                        "iconTag":"Azure DevOps"
+                    },
+                    {
+                        "iconImg":"img/Hero.svg",
+                        "iconTag":"Visual Studio"
+                    },
+                    {
+                        "iconImg":"img/GitHub.svg",
+                        "iconTag":"GitHub Enterprise"
+                    }
+                ],
+                "mainImg":"img/hp-main.avif",
+                "id":"hp"
+                
+           },         
+           {
+            "icon":"img/Logo-Unity.avif",
+            "head":"Unity made game development more accessible to all by using Azure OpenAI Service to create an AI assistant that helps creators throughout their development workflows.",
+            "product":[
+                {
+                    "iconImg":"img/azureopen.svg",
+                    "iconTag":"Azure OpenAI Service"
+                },
+                {
+                    "iconImg":"img/GitHub.svg",
+                    "iconTag":"GitHub Enterprise"
+                }
+            ],
+            "mainImg":"img/unity-main.avif",
+            "id":"unity"
+            
+            },         
+            {
+             "icon":"img/Logo-LEGO.avif",
+             "head":"LEGO House takes the physical brick to new frontiers with inventive, interactive digital experiences built with Azure solutions.",
+             "product":[
+                 {
+                     "iconImg":"img/Customer.svg",
+                     "iconTag":"Azure IoT Edge"
+                 },
+                 {
+                     "iconImg":"img/azurekub.svg",
+                     "iconTag":"Azure Kubernetes Service(AKS)"
+                 }
+             ],       
+             "mainImg":"img/LEGO-main.avif",
+             "id":"lego"
+             
+            },         
+            {
+             "icon":"img/Logo-Siemens.avif",
+             "head":"Siemens connects frontline workers and engineers for real-time problem-solving using Azure AI Studio.",
+             "product":[
+                 {
+                     "iconImg":"img/AzureAi.svg",
+                     "iconTag":"Azure AI"
+                 },
+                 {
+                     "iconImg":"img/azurestd.svg",
+                     "iconTag":"Azure AI Studio"
+                 },
+                 {
+                     "iconImg":"img/azuremachine.svg",
+                     "iconTag":"Azure Machine Learning"
+                 }
+             ],
+             "mainImg":"img/Siemens-main.avif",
+             "id":"siemens"
+             
+            },         
+            {
+             "icon":"img/Logo-Heineken.avif",
+             "head":"HEINEKEN built chatbots that connect employees with information across the company using Azure OpenAI Service and its built-in ChatGPT capabilities.",
+             "product":[
+                 {
+                     "iconImg":"img/AzureAi.svg",
+                     "iconTag":"Azure AI"
+                 },
+                 {
+                     "iconImg":"img/azureopen.svg",
+                     "iconTag":"Azure OpenAI Service"
+                 }
+        
+             ],
+             "mainImg":"img/Heineken-main.avif",
+             "id":"heineken"
+             
+            }     
+        ],
+        "take":[
+            {
+                "head":"Choose the Azure account that's right for you",
+                "cont":"Pay us you go or try Azure for free for upto 30 days",
+                "btn":"Get started with Azure"
+            },
+            {
+                "head":"Connect with a sales specialist",
+                "cont":"Chat with or call a sales specialist for personalized guidance",
+                "btn":"Get in Touch"
+            },
+            {
+                "head":"New to Azure? Learn at your own pace",
+                "cont":"Learn cloud computing basics with self-paced modules on Microsoft Learn",
+                "btn":"Get Started"
+            }                   
+        ]        
+
+                  
+    
+}
+
